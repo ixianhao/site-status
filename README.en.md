@@ -1,4 +1,4 @@
-English | [简体中文](./README.zh-CN.md)
+English | [简体中文](./README.md)
 
 <div align="center">
 <h1>site-status</h1>
@@ -17,7 +17,7 @@ English | [简体中文](./README.zh-CN.md)
 
 > Demo password: `123456`
 
-- [IMSYY-Site Monitoring](https://status.imsyy.top/)
+- [IMSYY-Site Monitoring](https://status.itvv.cn/)
 
 ## 🎉 Features
 
@@ -46,7 +46,7 @@ This project is deployed by default using [Cloudflare Pages](https://pages.cloud
 
 ### Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/imsyy/site-status)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ixianhao/site-status)
 
 - Click the button above to deploy.
 - Add the following environment variables (important):
@@ -70,4 +70,4 @@ Add the following environment variables: `SITE_PASSWORD` and `SITE_SECRET_KEY`. 
 
 ## Thanks
 
-- [uptime-status](https://github.com/yb/uptime-status) inspired this project
+- [uptime-status](https://github.com/imsyy/site-status) inspired this project
