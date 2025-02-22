@@ -1,4 +1,4 @@
-简体中文 | [English](./README.md)
+简体中文 | [English](./README.en.md)
 
 <div align="center">
 <h1>site-status</h1>
@@ -17,7 +17,7 @@
 
 > Demo password: `123456`
 
-- [IMSYY-站点监测](https://status.imsyy.top/)
+- [IMSYY-站点监测](https://status.itvv.cn/)
 
 ## 🎉 特色
 
@@ -45,7 +45,7 @@
 
 ### Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/imsyy/site-status)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ixianhao/site-status)
 
 - 点击上方按钮以前往部署
 - 在环境变量中添加下方的内容（ 重要 ）
@@ -69,4 +69,4 @@
 
 ## 鸣谢
 
-- [uptime-status](https://github.com/yb/uptime-status) 受此项目启发
+- [uptime-status](https://github.com/imsyy/site-status) 受此项目启发
